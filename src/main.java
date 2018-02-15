@@ -11,3 +11,6 @@ trying to write for linux
 
 developing add fetures
 
+Adding small changes
+
+
